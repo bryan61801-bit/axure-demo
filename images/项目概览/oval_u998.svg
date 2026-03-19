@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="9px" height="9px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip1726">
+      <path d="M 0 4.5  C 0 6.985281374099998  2.0147186259000023 9  4.5 9  C 6.985281374099998 9  9 6.985281374099998  9 4.5  C 9 2.0147186259000023  6.985281374099998 0  4.5 0  C 2.0147186259000023 0  0 2.0147186259000023  0 4.5  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1141 -918 )">
+    <path d="M 0 4.5  C 0 6.985281374099998  2.0147186259000023 9  4.5 9  C 6.985281374099998 9  9 6.985281374099998  9 4.5  C 9 2.0147186259000023  6.985281374099998 0  4.5 0  C 2.0147186259000023 0  0 2.0147186259000023  0 4.5  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 0)" stroke="none" transform="matrix(1 0 0 1 1141 918 )" class="fill" />
+    <path d="M 0 4.5  C 0 6.985281374099998  2.0147186259000023 9  4.5 9  C 6.985281374099998 9  9 6.985281374099998  9 4.5  C 9 2.0147186259000023  6.985281374099998 0  4.5 0  C 2.0147186259000023 0  0 2.0147186259000023  0 4.5  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(41, 44, 56, 1)" fill="none" transform="matrix(1 0 0 1 1141 918 )" class="stroke" mask="url(#Clip1726)" />
+  </g>
+</svg>
