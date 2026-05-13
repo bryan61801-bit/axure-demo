@@ -1,5 +1,5 @@
 ﻿.ax_default {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -30,41 +30,41 @@
 ._图片 {
 }
 ._一级标题 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 ._二级标题 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
 ._三级标题 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
 ._四级标题 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
 ._五级标题 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
 ._六级标题 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:10px;
@@ -101,14 +101,14 @@
 .menu_item {
 }
 .heading_1 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-family:"Arial Negreta", "Arial Normal", "Arial", sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 .heading_2 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-family:"Arial Negreta", "Arial Normal", "Arial", sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:24px;
@@ -136,14 +136,14 @@
   text-align:left;
 }
 ._标题_3 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
 .refs-chart-data {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -171,7 +171,7 @@
 .line2 {
 }
 .box_11 {
-  font-family:'Microsoft YaHei UI', sans-serif;
+  font-family:"Microsoft YaHei UI", sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -296,7 +296,7 @@
   text-align:left;
 }
 .paragraph2 {
-  font-family:'微软雅黑', sans-serif;
+  font-family:"微软雅黑", sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
